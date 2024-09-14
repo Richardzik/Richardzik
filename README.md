@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 😎</h1>
 <br>
-<h2 align="left"> About me ⚡ </h2>
+<h2 align="center"> About me ⚡ </h2>
 <p align ="left"> I'm a 19-year-old Software Developer from Poland, studying Software Engineering at VIA University College in Denmark. </p>
 <ul>
-  <li> 📝 Currently I am improving my skills in **C#, Python and Java** </li>
+  <li> 📝 Currently I am improving my skills in <strong>C#, Python and Java</strong> </li>
   <li> 👀 Looking for a job in IT</li>
   <li> 📫 You can contact me at: kubrama04@gmail.com</li>
 </ul>
