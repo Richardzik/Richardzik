@@ -11,7 +11,7 @@
 <h2 align="center"> About me ⚡ </h2>
 <p align ="left"> I'm a 20-year-old Software Developer from Poland, studying Software Engineering at VIA University College in Denmark. </p>
 <ul>
-  <li> 📝 Currently I am improving my skills in <strong>C, Git and Python</strong> </li>
+  <li> 📝 Currently I am improving my skills in <strong>C, Git, Python and Web Development</strong> </li>
   <li> 👀 Looking for a job in IT</li>
   <li> 📫 You can contact me at: kubrama04@gmail.com</li>
 </ul>
